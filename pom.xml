@@ -10,7 +10,7 @@
   	<!-- 模块-子项目 -->
 	<modules>
 		<!-- 模板 -->
-		<module>vue-front</module>				
+		<module>vue-frontend</module>				
 		<module>vue-backend</module>				
 		<!--
 		<module></module>		
